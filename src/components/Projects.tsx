@@ -18,7 +18,6 @@ const Projects = () => {
               <div className="p-6">
                 <h3 className="text-2xl font-semibold text-white mb-2">{project.title}</h3>
                 <p className="text-gray-300 mb-4 sans-serif">{project.description}</p>
-                <a href="#" className="text-gold hover:text-white transition duration-300 sans-serif">Explore Project</a>
               </div>
             </div>
           ))}

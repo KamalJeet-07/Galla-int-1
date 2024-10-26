@@ -18,7 +18,6 @@ const Portfolio = () => {
               <img src={project.image} alt={project.title} className="w-full h-64 object-cover" />
               <div className="p-6">
                 <h3 className="text-xl font-semibold text-white mb-2">{project.title}</h3>
-                <a href="#" className="text-gold hover:text-white transition duration-300 sans-serif">View Details</a>
               </div>
             </div>
           ))}
