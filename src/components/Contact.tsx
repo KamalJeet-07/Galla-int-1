@@ -22,7 +22,7 @@ const Contact = () => {
               <Phone className="w-8 h-8 text-gold mr-4" />
               <div>
                 <h3 className="text-xl font-semibold mb-1">Call Us</h3>
-                <p>+1 (555) 123-4567</p>
+                <p>+91 8851098643</p>
               </div>
             </div>
             <div className="flex items-center">
@@ -36,7 +36,7 @@ const Contact = () => {
               <MapPin className="w-8 h-8 text-gold mr-4" />
               <div>
                 <h3 className="text-xl font-semibold mb-1">Visit Us</h3>
-                <p>123 Luxury Lane, Elegance City, 54321</p>
+                <p>N-2, Khyala, Vishnu Garden, New Delhi 110018</p>
               </div>
             </div>
           </div>
