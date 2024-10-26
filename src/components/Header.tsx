@@ -5,7 +5,7 @@ const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="bg-black bg-opacity-80 backdrop-filter backdrop-blur-lg shadow-md fixed w-full z-10">
+    <header className="bg-black bg-opacity-80 backdrop-filter backdrop-blur-lg shadow-md  w-full z-10">
       <nav className="container mx-auto px-6 py-4">
         <div className="flex justify-between items-center">
           <div className="text-2xl font-bold text-white">Galla Interior</div>
